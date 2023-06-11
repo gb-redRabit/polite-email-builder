@@ -18,6 +18,7 @@ Aplikacja napisane z uzytkiem :
 - JS
 - WebPack
 - Bibliotek 'Granim.js'
+- Obsługa formularzy w js
 
 ## Czego sie nauczylem
  Nauczylem sie konfiguracji i korzystania z webpack oraz z jego pluinow i loader.
