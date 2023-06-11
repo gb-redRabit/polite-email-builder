@@ -26,4 +26,4 @@ Aplikacja napisane z uzytkiem :
 
 ## GitHub Puges
 
-https://grzbejta.github.io/polite-email-builder/index.html
+https://gb-redRabit.github.io/polite-email-builder/index.html
